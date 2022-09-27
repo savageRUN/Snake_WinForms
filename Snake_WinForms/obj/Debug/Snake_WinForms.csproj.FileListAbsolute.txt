@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\bin\Debug\Snake_WinForms.exe.config
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\bin\Debug\Snake_WinForms.exe
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\bin\Debug\Snake_WinForms.pdb
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.Properties.Resources.resources
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.exe
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.pdb
+C:\Users\user\source\repos\Snake_WinForms\Snake_WinForms\obj\Debug\Snake_WinForms.Form1.resources
